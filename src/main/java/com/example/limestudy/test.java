@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api")
 public class test {
 
-    @GetMapping("/hello")
+    @GetMapping("/login/login")
     public String helloWord(){
 
         System.out.println("hello");

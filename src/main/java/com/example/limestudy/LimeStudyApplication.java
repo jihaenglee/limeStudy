@@ -8,6 +8,7 @@ public class LimeStudyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LimeStudyApplication.class, args);
+
     }
 
 }
